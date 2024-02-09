@@ -1,4 +1,4 @@
-# DownloadButton
+# Download Button Animation
 
 A React Native component for a download button with animated effects.
 
@@ -11,7 +11,7 @@ A React Native component for a download button with animated effects.
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/Download-Button-Animation.git
+git clone https://github.com/chhedadhruv/Download-Button-Animation.git
 
 2. Install dependencies:
 - cd DownloadButton
